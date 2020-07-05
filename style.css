@@ -1,6 +1,6 @@
 body {
     padding-top: 3.5rem;
-  }
+}
 
 .navbar-nav {
     float: right;
@@ -10,4 +10,29 @@ body {
 .Image1 {
     width: 100%;
     
+}
+
+/*Move from index.html*/
+/*<style>*/
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+    }
+}
+/*  </style>*/
+
+li{
+    text-align: right;
+}
+.row{
+    width: 100%;
 }
