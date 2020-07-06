@@ -30,9 +30,54 @@ body {
 }
 /*  </style>*/
 
+
+/*Move from Products.html*/
+
 li{
     text-align: right;
 }
 .row{
     width: 100%;
+}
+
+img{
+    width: 100%;
+    ;
+}
+
+.product_description{
+    display: block;
+    margin-block-start: 2em;
+    margin-block-end: 3em;
+    margin-inline-start: 20px;
+    margin-inline-end: 0px;
+    font-size: large;
+
+}
+.product1{
+    padding-inline-start: 50px;
+    width: 100%;
+    padding-top: 50px;
+}
+li{
+    text-align: left;
+    padding-bottom: 20px;
+}
+#image2{
+    width: 100%;
+
+}
+
+/*contact*/
+
+.display-4{
+    margin-top: 20px;
+}
+
+main{
+    margin-left: 30px;
+}
+.body{
+    margin-left: 20px;
+    font-size: 14px;
 }
