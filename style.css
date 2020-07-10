@@ -1,5 +1,7 @@
 body {
     padding-top: 3.5rem;
+    display: block;
+    margin: 2rem;
 }
 
 .navbar-nav {
@@ -11,6 +13,62 @@ body {
     width: 100%;
     
 }
+.row1{
+    width: 40%;
+    text-align: center;
+}
+.slider.round{
+    border-radius: 14px;
+    width: 80px;
+}
+.slider{
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #111;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+.slider.round:before {
+    border-radius: 50%;
+}
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+.col {
+    margin: 20px;
+}
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+}
+label {
+    cursor: default;
+}
+.dark {
+    background-color: rgb(201, 211, 116);
+    color: white;
+    height: 100vh;
+}
+.row1 {
+    margin: 20px;
+    display: flex;
+}
+
+
 
 /*Move from index.html*/
 /*<style>*/
@@ -43,6 +101,9 @@ li{
 img{
     width: 100%;
     ;
+}
+.display-3{
+    text-align: center;
 }
 
 .product_description{
