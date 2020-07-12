@@ -234,3 +234,43 @@ body {
     margin-top: 7rem;
   }
 }
+
+
+
+
+.cat-1{
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+
+}
+.cat-2{
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+}
+
+.cat-3{
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+
+}
+
+.backGroundCat{
+
+
+}
+
+
+.square{
+    width: 500px;
+    height: 500px;
+}
+
+.prevent{
+
+    width: 400;
+    height: 400;
+    
+}
