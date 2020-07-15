@@ -284,7 +284,36 @@ body {
 }
 
 .view{
-    width: 140px;
-    height: 140px;
+    width: 300px;
+    height: 200px;
     border-radius: 20%;
 }
+
+/* Pricing */
+
+html {
+    font-size: 14px;
+  }
+  @media (min-width: 768px) {
+    html {
+      font-size: 16px;
+    }
+  }
+  
+  .center {
+    max-width: 960px;
+  }
+  
+  .pricing-header {
+    max-width: 700px;
+  }
+  
+  .card-deck .card {
+    min-width: 220px;
+  }
+
+
+  .li{
+      text-align: center;
+  }
+  
