@@ -57,4 +57,4 @@
 ### Contributors
 
 * Darius Mitchell
-* Elhadji Malik Diop'
+* Malik Diop
