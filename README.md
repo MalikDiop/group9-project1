@@ -60,4 +60,4 @@ All images were sourced from rawpixel.com and google images.
 ### Contributors
 
 * Darius Mitchell - Dariuskmitchell@outlook.com
-* Malik Diop - diopmalik@gmail.com
+* Malik Diop - diopmalik@gmail.com 
