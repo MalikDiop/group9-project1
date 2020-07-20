@@ -3,7 +3,7 @@
 
 * This is a project to demonstrate our knowledge of HTML, CSS, Bootstrap, Jquery and Javascript. 
 
-* We named the project Catzme after a suggestion from one of our former teammates. We offer veterinary, services boarding, various products. 
+*  After a suggestion from one of our former teammates, we decided to do a website for cats. Malik and I decided to name the project Catzme. We offer veterinary services, boarding, and various products. 
 
 * Malik and Darius contributed to the index page.
 
@@ -18,11 +18,12 @@
 
 * This page includes a header, an image, three paragraphs, and a grid.
 
+
 # Services.html
 
 * The service page goes over our services in detail. They include curbside vet visits, nutritional services and preventative care.
 
-* There is are paragraphs, images,  three paragraphs, and headers on this page.
+* There are paragraphs, images, and headers on this page.
 
 
 # Boarding.html
@@ -43,18 +44,20 @@
 
 
 
-# Contact
+# Contact.html
 
 * The Contact page is where you can reach us via phone, email, and LinkedIn. 
 
 * The contact page has a form, images, and a Jquery game.
 
 
+___________________________________________________________________________
 
+All images were sourced from rawpixel.com and google images.
 
 
 
 ### Contributors
 
-* Darius Mitchell
-* Malik Diop
+* Darius Mitchell - Dariuskmitchell@outlook.com
+* Malik Diop - elhadjid@hotmail.com 
